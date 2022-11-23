@@ -1,0 +1,54 @@
+2022-07-07 13:39:33     tests   INFO  Testing with Consecutive and Simulataneous Timestamps
+2022-07-07 13:39:39  requests   INFO  Sending One GET Request for Timestamp: 13:39:39
+2022-07-07 13:39:40  requests   INFO  Received Response from GET Request for Timestamp: 13:39:39
+2022-07-07 13:39:41  requests   INFO  Sending One GET Request for Timestamp: 13:39:41
+2022-07-07 13:39:42  requests   INFO  Received Response from GET Request for Timestamp: 13:39:41
+2022-07-07 13:39:43  requests   INFO  Sending One GET Request for Timestamp: 13:39:43
+2022-07-07 13:39:43  requests   INFO  Sending One GET Request for Timestamp: 13:39:43
+2022-07-07 13:39:44  requests   INFO  Received Response from GET Request for Timestamp: 13:39:43
+2022-07-07 13:39:44  requests   INFO  Received Response from GET Request for Timestamp: 13:39:43
+2022-07-07 13:39:48  requests   INFO  Sending One GET Request for Timestamp: 13:39:48
+2022-07-07 13:39:49  requests   INFO  Received Response from GET Request for Timestamp: 13:39:48
+2022-07-07 13:39:49     tests   INFO  Testing with Five Identical Timestamps
+2022-07-07 13:39:54  requests   INFO  Sending One GET Request for Timestamp: 13:39:54
+2022-07-07 13:39:54  requests   INFO  Sending One GET Request for Timestamp: 13:39:54
+2022-07-07 13:39:54  requests   INFO  Sending One GET Request for Timestamp: 13:39:54
+2022-07-07 13:39:54  requests   INFO  Sending One GET Request for Timestamp: 13:39:54
+2022-07-07 13:39:54  requests   INFO  Sending One GET Request for Timestamp: 13:39:54
+2022-07-07 13:39:55  requests   INFO  Received Response from GET Request for Timestamp: 13:39:54
+2022-07-07 13:39:55  requests   INFO  Received Response from GET Request for Timestamp: 13:39:54
+2022-07-07 13:39:55  requests   INFO  Received Response from GET Request for Timestamp: 13:39:54
+2022-07-07 13:39:55  requests   INFO  Received Response from GET Request for Timestamp: 13:39:54
+2022-07-07 13:39:55  requests   INFO  Received Response from GET Request for Timestamp: 13:39:54
+2022-07-07 13:39:55     tests   INFO  Testing with Five Consecutive Timestamps
+2022-07-07 13:40:01  requests   INFO  Sending One GET Request for Timestamp: 13:40:01
+2022-07-07 13:40:02  requests   INFO  Received Response from GET Request for Timestamp: 13:40:01
+2022-07-07 13:40:03  requests   INFO  Sending One GET Request for Timestamp: 13:40:03
+2022-07-07 13:40:04  requests   INFO  Received Response from GET Request for Timestamp: 13:40:03
+2022-07-07 13:40:05  requests   INFO  Sending One GET Request for Timestamp: 13:40:05
+2022-07-07 13:40:06  requests   INFO  Received Response from GET Request for Timestamp: 13:40:05
+2022-07-07 13:40:07  requests   INFO  Sending One GET Request for Timestamp: 13:40:07
+2022-07-07 13:40:08  requests   INFO  Received Response from GET Request for Timestamp: 13:40:07
+2022-07-07 13:40:09  requests   INFO  Sending One GET Request for Timestamp: 13:40:09
+2022-07-07 13:40:10  requests   INFO  Received Response from GET Request for Timestamp: 13:40:09
+2022-07-07 13:40:10     tests   INFO  Testing a Request from GetRequests Versus a Manual Request
+2022-07-07 13:40:26  requests   INFO  Sending One GET Request for Timestamp: 13:40:26
+2022-07-07 13:40:27  requests   INFO  Received Response from GET Request for Timestamp: 13:40:26
+2022-07-07 13:40:27     tests   INFO  Testing with Two Identical Timestamps
+2022-07-07 13:40:32  requests   INFO  Sending One GET Request for Timestamp: 13:40:32
+2022-07-07 13:40:32  requests   INFO  Sending One GET Request for Timestamp: 13:40:32
+2022-07-07 13:40:33  requests   INFO  Received Response from GET Request for Timestamp: 13:40:32
+2022-07-07 13:40:33  requests   INFO  Received Response from GET Request for Timestamp: 13:40:32
+2022-07-07 13:40:33     tests   INFO  Testing with One Invalid Timestamp
+2022-07-07 13:40:33     tests   INFO  Testing with No Timestamp
+2022-07-07 13:40:33     tests   INFO  Testing with One Timestamp
+2022-07-07 13:40:38  requests   INFO  Sending One GET Request for Timestamp: 13:40:38
+2022-07-07 13:40:39  requests   INFO  Received Response from GET Request for Timestamp: 13:40:38
+2022-07-07 13:40:39     tests   INFO  Testing with Two Timestamps
+2022-07-07 13:40:44  requests   INFO  Sending One GET Request for Timestamp: 13:40:44
+2022-07-07 13:40:45  requests   INFO  Received Response from GET Request for Timestamp: 13:40:44
+2022-07-07 13:40:49  requests   INFO  Sending One GET Request for Timestamp: 13:40:49
+2022-07-07 13:40:50  requests   INFO  Received Response from GET Request for Timestamp: 13:40:49
+2022-07-07 13:40:50     tests   INFO  Testing with One Valid Timestamp and One Invalid Timestamp
+2022-07-07 13:40:55  requests   INFO  Sending One GET Request for Timestamp: 13:40:55
+2022-07-07 13:40:56  requests   INFO  Received Response from GET Request for Timestamp: 13:40:55
